@@ -1,0 +1,6 @@
+# Public pages are open to search crawlers, including Googlebot, Bingbot,
+# and OAI-SearchBot. Hosting/CDN bot policies must also allow these crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://b0xtch.com/sitemap.xml
